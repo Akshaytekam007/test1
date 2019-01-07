@@ -5,5 +5,6 @@ int main() {
 	printf("%d\n", x);
 	x++;
 	printf("%d\n", x);
+	printf("hello world\n");
 	return 0;
 }
